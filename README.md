@@ -30,7 +30,7 @@ A browser-based implementation of the popular puzzle game **2048**. Built using 
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/ykrapivka/2048-Game.git
 cd project-name
 ```
 
